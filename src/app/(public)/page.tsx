@@ -1,3 +1,8 @@
+import AboutSection from "@/components/organisms/HeroSection";
 export default function page() {
-  return <div>div</div>;
+  return (
+    <div>
+      <AboutSection />
+    </div>
+  );
 }
