@@ -1,5 +1,8 @@
-import React from "react";
-
+import ContactPage from "../../../components/organisms/ContactPage";
 export default function Page() {
-  return <div>Feature</div>;
+  return (
+    <div>
+      <ContactPage />
+    </div>
+  );
 }
