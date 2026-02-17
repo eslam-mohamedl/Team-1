@@ -8,7 +8,7 @@ export default function HeroSection() {
         This section represents the Hero Section of the website.
       </Text>
       <Text size="md" className="text-green-400">
-        created by : Eslam mohamed
+        created by : Eslam Mohamed
       </Text>
     </div>
   );
