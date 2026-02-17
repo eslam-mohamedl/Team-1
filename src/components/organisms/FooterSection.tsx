@@ -3,7 +3,7 @@ import Title from "@/components/atoms/Title";
 export default function FooterSection() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
-      <Title>FeatureSection</Title>
+      <Title>Footer Section</Title>
       <Text size="md">
         This section represents the Hero Section of the website.
       </Text>
