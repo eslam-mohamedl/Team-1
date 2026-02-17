@@ -3,6 +3,7 @@ import HeroSection from "@/components/organisms/HeroSection";
 import AboutSection from "@/components/organisms/AboutSection";
 import NavbarSection from "@/components/organisms/NavbarSection";
 import FeatureSection from "@/components/organisms/FeatureSection";
+import FAQSection from "@/components/organisms/FAQSection";
 
 export default function page() {
   return (
@@ -12,6 +13,7 @@ export default function page() {
       <NavbarSection />
       <FeatureSection />
       <TestimonialsSection/>
+      <FAQSection />
     </div>
   );
 }
